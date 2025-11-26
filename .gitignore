@@ -1,5 +1,5 @@
 .venv
 .idea
- __pycache__
+__pycache__
 tests/__pycache__
 pages/__pycache__
