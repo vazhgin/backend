@@ -13,3 +13,5 @@ UI тесты для футера страницы [only.digital](https://only.d
 # 2. Выбрать workflow "Automated test for only"
 
 # 3. Запустить тесты (Run workflow)
+
+# 4. Просмотреть отчет Allure после успешного деплоя
