@@ -1,5 +1,5 @@
 .venv
 .idea
-__pycache__
-tests/__pycache__
-pages/__pycache__
+__pycache__/conftest.cpython-313-pytest-9.0.1.pyc
+tests/__pycache__/test_only.cpython-313-pytest-9.0.1.pyc
+pages/__pycache__/main_page.cpython-313.pyc
